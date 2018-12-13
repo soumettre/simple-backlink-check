@@ -2,7 +2,7 @@
 
 ## Installation
 
-Clone the repository or download zip file, access and enjoy.
+Clone the repository or [download zip file](https://github.com/soumettre/simple-backlink-check/archive/master.zip), access and enjoy.
 
 ## Usage
 
