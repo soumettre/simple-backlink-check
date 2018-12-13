@@ -19,6 +19,9 @@
         <button type="submit" class="bg-blue-dark hover:bg-blue text-white rounded px-4 py-2">Vérifier</button>
     </form>
 </div>
-
+<div class="container mx-auto text-grey-darker text-center py-2 text-sm">
+    Simple Backlink Check is open-sourced software licensed under the <a class="text-black no-underline"href="https://opensource.org/licenses/MIT">MIT license</a>. 
+    This tool is freely provided by <a class="text-black no-underline"href="https://soumettre.fr">Soumettre.fr : Netlinking as a Service</a>
+</div>
 </body>
 </html>

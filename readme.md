@@ -2,7 +2,12 @@
 
 ## Installation
 
-Clone the repository or [download zip file](https://github.com/soumettre/simple-backlink-check/archive/master.zip), access and enjoy.
+Clone the repository, or [download zip file](https://github.com/soumettre/simple-backlink-check/archive/master.zip), upload it to the hosting of your choice, access and enjoy.
+
+## Server Requirements
+
+- php7.x
+- php-curl
 
 ## Usage
 
@@ -14,4 +19,4 @@ Simple Backlink Check is open-sourced software licensed under the [MIT license](
 
 ## Special Thanks
 
-This tool is freely provided by [Soumettre.fr](https://soumettre.fr) : Netlinking as a Service 
+This tool is freely provided by [Soumettre.fr : Netlinking as a Service](https://soumettre.fr)
